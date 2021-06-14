@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "01885d32-2e8a-445c-a331-dc504141e772",
+      "name": "Mystic Scribbler",
+      "email": "mymysticscribbler@gmail.com"
+    },
+    {
+      "id": "6ca3957b-6999-4387-8380-79196b3fc8a6",
+      "name": "Steve",
+      "email": "iron@man.com"
+    },
+    {
+      "id": "0a39e12e-8e6c-407f-9b4e-e043ad21a734",
+      "name": "Banner",
+      "email": "hulk@green.com"
+    },
+    {
+      "id": "a5d27282-0a25-45b1-8956-1d1ec0404870",
+      "name": "Thor",
+      "email": "thor@chris.com"
+    },
+    {
+      "id": "e951e6ed-4c9e-49b3-8ca4-f2504a6205ec",
+      "name": "Hawkeye",
+      "email": "archery@avenger.com"
+    }
+  ]
+}
